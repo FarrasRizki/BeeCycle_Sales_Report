@@ -1,4 +1,4 @@
-# Mini Project SQL
+# Bee Cycle Project SQL
 Project by Muhammad Farras Rizki
 
 ## A. Latar Belakang
