@@ -9,4 +9,4 @@ Membuat Walkthrough pengolahan data perusahaan Bee Cycle menggunakan SQL dan mem
 
 ## C. Deskripsi singkat tiap file
 1. Database : Kumpulan dataset milik perusahaan Bee Cycle
-2. Mini Portfolio SQL_Bee Cycle.pdf : Summary mengenai Walkthrough dan Actionable Knowledge data
+2. Mini Portfolio SQL_Bee Cycle.pdf : Summary mengenai Walkthrough dan Actionable Knowledge data [Gdrive: bit.ly/beecycle_sql]
