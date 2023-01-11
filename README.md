@@ -1,14 +1,9 @@
 # Bee Cycle Project SQL
 Project by Muhammad Farras Rizki
+Dashboard : https://bit.ly/BeeCycle_Sales_Dashboard
 
-## A. Latar Belakang
-Bee Cycle adalah sebuah perusahaan manufaktur sepeda, menjual beberapa produk yang terbagi menjadi 4 kategori yaitu Bikes, Accessories, Clothing dan Component
+## A. Business Understanding
+Bee Cycle is a bicycle manufacturing company, selling several products divided into 4 categories namely Bikes, Accessories, Clothing and Components
 
-## B. Tujuan Proyek
-Membuat Walkthrough pengolahan data perusahaan Bee Cycle menggunakan SQL dan memberikan Actionable Knowledge sebagai referensi ide strategi marketing perusahaan
-
-## C. Deskripsi singkat tiap file
-1. Database : Kumpulan dataset milik perusahaan Bee Cycle
-2. Mini Portfolio SQL_Bee Cycle.pdf : Summary mengenai Walkthrough dan Actionable Knowledge data 
-
-Link PDF : bit.ly/beecycle_sql
+## B. Objective
+Create cloud database and build a filterable interactive dashboard to report company sales, including write SQL queries for required data
